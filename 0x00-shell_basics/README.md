@@ -1,2 +1,2 @@
 first script is setting bash
-second script changes the working directory to the user’s home directory
+second script displays current directory contents in a long format
