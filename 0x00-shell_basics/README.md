@@ -1,2 +1,2 @@
 first script is setting bash
-second script deletes my first directory
+second script changes the working directory to the previous one
