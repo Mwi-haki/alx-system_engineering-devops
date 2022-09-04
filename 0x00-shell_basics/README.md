@@ -1,2 +1,2 @@
 first script is setting bash
-second script displays current directory contents in a long format
+second script displays current directory contents,including the hidden in a long format
