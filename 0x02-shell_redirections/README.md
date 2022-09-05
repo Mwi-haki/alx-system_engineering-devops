@@ -1,2 +1,2 @@
 The first script is setting bash
-The second script prints “Hello, World”
+The second script displays a confused smiley '(Ôo)'
