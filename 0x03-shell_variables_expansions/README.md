@@ -1,2 +1,2 @@
 The first script sets bash
-The second script adds /action to the PATH. /action
+The second script counts the number of directories in the PATH
