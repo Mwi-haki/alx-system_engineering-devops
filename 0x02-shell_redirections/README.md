@@ -1,2 +1,2 @@
 The first script is setting bash
-The second script displays the content of /etc/passwd and /etc/hosts
+The second script displays the last 10 lines of /etc/passwd
