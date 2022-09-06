@@ -1,2 +1,2 @@
 The first script sets bash
-The second script creates an alias
+The second script prints hello user, where user is the current Linux user
