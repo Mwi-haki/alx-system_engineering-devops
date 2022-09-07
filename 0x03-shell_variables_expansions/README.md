@@ -1,2 +1,2 @@
 The first script sets bash
-The second script converts a number from base 10 to base 16
+The second script encodes and decodes text using the rot13 encryption
