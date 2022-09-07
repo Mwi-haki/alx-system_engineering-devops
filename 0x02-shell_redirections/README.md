@@ -1,2 +1,2 @@
 The first script is setting bash
-The second script writes a command that finds all empty files and directories in the current directory and all sub-directories
+The second script writes a lists all the files with a .gif extension in the current directory and all its sub-directories
