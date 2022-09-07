@@ -1,2 +1,2 @@
 The first script is setting bash
-The second script displays replaces all characters A and c from input to Z and e respectively
+The second script displays removes all letters c and C from input
