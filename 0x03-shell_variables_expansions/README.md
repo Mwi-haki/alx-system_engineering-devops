@@ -1,2 +1,2 @@
 The first script sets bash
-The second script converts a number from base 2 to base 10
+The second script prints all possible combinations of two letters, except oo
