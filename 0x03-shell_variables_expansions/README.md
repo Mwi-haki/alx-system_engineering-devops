@@ -1,2 +1,2 @@
 The first script sets bash
-The second script prints the result of POWER divided by DIVIDE, followed by a new line
+The second script displays the result of BREATH to the power LOVE
