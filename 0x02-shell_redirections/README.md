@@ -1,2 +1,2 @@
 The first script is setting bash
-The second script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+The second script displays all the lines in the file /etc/passwd that do not contain the pattern “bin”
