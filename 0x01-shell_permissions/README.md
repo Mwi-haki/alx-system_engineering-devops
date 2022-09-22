@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that sets the permission to the file.
+A script that sets the mode of the file hello to this
