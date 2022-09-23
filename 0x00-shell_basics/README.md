@@ -1,2 +1,2 @@
 first script is setting bash
-second script prints the type of the file named iamafile located in the /tmp directory 
+second script Create a symbolic link to /bin/ls, named __ls__.
